@@ -4,3 +4,4 @@ textblob
 wordcloud
 pandas
 matplotlib
+pip>=23.0
