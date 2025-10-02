@@ -1,0 +1,6 @@
+streamlit==1.29.0
+tweepy==5.14.0
+pandas==2.1.1
+matplotlib==3.8.0
+textblob==0.17.1
+wordcloud==1.8.2.2
