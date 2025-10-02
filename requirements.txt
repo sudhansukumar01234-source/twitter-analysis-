@@ -1,7 +1,7 @@
-pip>=23.0
-streamlit>=1.25.0
-tweepy>=4.17.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-textblob>=0.17.1
-wordcloud>=1.9.2
+
+streamlit
+tweepy
+pandas
+matplotlib
+textblob
+wordcloud
